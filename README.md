@@ -37,3 +37,10 @@ Secure Gate is a robust and user-friendly management system designed for gated c
 - Backend: PHP
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 - Database: MySQL
+
+
+
+## Architecture Diagrams Link
+
+[All Diagrams Here](https://drive.google.com/file/d/1DHaVnMS7vN15LXhghpRXL26sQU2PyfpJ/view?usp=drive_link)
+
